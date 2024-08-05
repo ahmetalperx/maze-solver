@@ -6,7 +6,11 @@ Maze Solver is an interactive web application that allows users to create and so
 
 ## Live Demo
 
-Try out the Maze Solver here: [https://ahmetalper0.github.io/maze-solver](https://ahmetalper0.github.io/maze-solver)
+The project can be viewed live at : [https://ahmetalper0.github.io/maze-solver](https://ahmetalper0.github.io/maze-solver)
+
+## Screenshots
+
+![Demo](demo.png)
 
 ## Features
 
@@ -17,18 +21,6 @@ Try out the Maze Solver here: [https://ahmetalper0.github.io/maze-solver](https:
   - A* Algorithm
 - Real-time solution visualization
 - Customizable start and end points
-
-## Installation
-
-1. Clone this repository:
-   ```
-   git clone https://github.com/ahmetalper0/maze-solver.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd maze-solver
-   ```
-3. Open the `index.html` file in a web browser.
 
 ## Usage
 
@@ -47,24 +39,14 @@ Try out the Maze Solver here: [https://ahmetalper0.github.io/maze-solver](https:
 
 ## File Structure
 
-- `index.html`: Main HTML file
+- `index.html`: Main Html file
+- `style.css`: Main Css File
 - `script.js`: Main JavaScript code
 - `bfs.js`: Breadth-First Search algorithm
 - `dfs.js`: Depth-First Search algorithm
 - `a-star.js`: A* algorithm
 
-## Contributing
-
-1. Fork this repository
-2. Create a new feature branch (`git checkout -b new-feature`)
-3. Commit your changes (`git commit -am 'New feature: Description'`)
-4. Push to the branch (`git push origin new-feature`)
-5. Create a new Pull Request
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contact
 
-For questions or feedback, please [open an issue](https://github.com/ahmetalper0/maze-solver/issues) or contact me directly at: [Your Email Address]
+For questions or feedback, please [open an issue](https://github.com/ahmetalper0/maze-solver/issues)
