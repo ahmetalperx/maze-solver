@@ -6,7 +6,7 @@ Maze Solver is an interactive web application that allows users to create and so
 
 ## Live Demo
 
-The project can be viewed live at : [https://ahmetalper0.github.io/maze-solver](https://ahmetalper0.github.io/maze-solver)
+The project can be viewed live at : [https://ahmetalperx.github.io/maze-solver](https://ahmetalperx.github.io/maze-solver)
 
 ## Screenshots
 
